@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Phuong Anh Pham
+## 👋 Hi there, I'm Jolie Pham
 
-I'm a **Data Analyst** with a Master’s in **Data Science and Innovation** from the **University of Technology Sydney** (UTS). I specialize in **SQL**, **Python**, **Tableau**, **Power BI**, and have hands-on experience in building machine learning models, data pipelines, and interactive dashboards.
+I'm a **Data Analyst** with a Master’s in **Data Science and Innovation** from the **University of Technology Sydney**. I specialize in **SQL**, **Python**, **Tableau**, **Power BI**, and have hands-on experience in building machine learning models, data pipelines, and interactive dashboards.
 
 ### 🔹 About Me:
 - Passionate about leveraging **data visualization**, **machine learning**, and **business intelligence** to turn complex data into actionable insights.
@@ -13,6 +13,15 @@ I'm a **Data Analyst** with a Master’s in **Data Science and Innovation** from
 - **Machine Learning & AI**: **Classification**, **Regression**, **Clustering**, **Deep Learning (CNN)**, **Anomaly Detection**
 - **Big Data & Cloud**: **Apache Spark**, **Airflow**, **Microsoft Azure**, **Google Cloud Platform**
 - **ETL & Data Pipelines**: **Data Wrangling**, **Feature Engineering**, **Web Scraping (Selenium, BeautifulSoup)**
+
+<details open> 
+    <summary><h2>📊 Github Stats</h2></summary>
+    <div align="center" style="display: flex; flex-direction: column; justify-content: center">
+      <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&title_color=FEC103&icon_color=FEC103&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=phuonganh-38" />
+      <img alt="My top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganh-38&layout=compact&hide_border=true&title_color=FEC103&icon_color=FEC103&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&hide=jupyter%20notebook,HTML,css,blade&langs_count=8&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;"/>
+    </div>
+   <img src="https://streak-stats.demolab.com?user=phuonganh-38&hide_border=true&background=EBEBEB00&stroke=FA4549&ring=FEC103&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=ED9329">
+</details>
 
 ### 🔹 Check Out My Projects:
 - **[Global Mental Health Dashboard (Tableau)](https://github.com/phuonganh-38/global-mental-health-dashboard)**  
