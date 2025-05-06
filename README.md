@@ -2,11 +2,6 @@
 
 I'm a **Data Analyst** with a Master’s in **Data Science and Innovation** from the **University of Technology Sydney**. I specialize in **SQL**, **Python**, **Tableau**, **Power BI**, and have hands-on experience in building machine learning models, data pipelines, and interactive dashboards.
 
-### 🔹 About me:
-- Passionate about leveraging **data visualization**, **machine learning**, and **business intelligence** to turn complex data into actionable insights.
-- Skilled in working with **big data** technologies like **Apache Spark** and **Airflow**.
-- Currently exploring new techniques in **predictive analytics** and **data storytelling**.
-
 <details open>
     <summary><h2>🌟 About me</h2></summary>
 
@@ -27,13 +22,14 @@ I'm a **Data Analyst** with a Master’s in **Data Science and Innovation** from
 
 
 <details open> 
-    <summary><h2>📊 Github stats</h2></summary>
-    <div align="center" style="display: flex; flex-direction: column; justify-content: center">
-      <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&title_color=FEC103&icon_color=FEC103&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=phuonganh-38" />
-      <img alt="My top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganh-38&layout=compact&hide_border=true&title_color=FEC103&icon_color=FEC103&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&hide=jupyter%20notebook,HTML,css,blade&langs_count=8&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;"/>
-        <img align="center" src="https://streak-stats.demolab.com?user=phuonganh-38&hide_border=true&background=EBEBEB00&stroke=FA4549&ring=FEC103&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=ED9329">
-    </div>
+  <summary><h2>📊 Github stats</h2></summary>
+  <div align="center">
+    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&title_color=FEC103&icon_color=FEC103&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=phuonganh-38" />
+    <img alt="My top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganh-38&layout=compact&hide_border=true&title_color=FEC103&icon_color=FEC103&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&hide=jupyter%20notebook,HTML,css,blade&langs_count=8&size_weight=0.5&count_weight=0.5" />
+    <img src="https://streak-stats.demolab.com?user=phuonganh-38&hide_border=true&background=EBEBEB00&stroke=FA4549&ring=FEC103&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=ED9329" />
+  </div>
 </details>
+
 
 ### My projects:
 - **[Global Mental Health Dashboard (Tableau)](https://github.com/phuonganh-38/global-mental-health-dashboard)**  
