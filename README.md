@@ -12,10 +12,10 @@
 <details open>
   <summary><h2>🛠️ My skills</h2></summary>
     
-- **Data Analysis & Visualization**: **Tableau**, **Power BI**, **Excel**, **Plotly**, **Matplotlib**
+- **Visualization**: **Tableau**, **Power BI**, **Excel**, **Plotly**, **Matplotlib**, **Seaborn**
 - **Programming & Databases**: **SQL**, **Python**, **PostgreSQL**, **Snowflake**
 - **Big Data & Cloud**: **Apache Spark**, **Airflow**, **Microsoft Azure**, **Google Cloud Platform**
-- **ETL & Data Pipelines**: **Data Wrangling**, **Feature Engineering**, **Web Scraping (Selenium, BeautifulSoup)**
+- **ETL & Data Pipelines**: **Data Wrangling**, **Feature Engineering**, **Web Scraping**
 </details>
 
 
