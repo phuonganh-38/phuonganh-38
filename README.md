@@ -13,8 +13,7 @@
   <summary><h2>🛠️ My skills</h2></summary>
     
 - **Data Analysis & Visualization**: **Tableau**, **Power BI**, **Excel**, **Plotly**, **Matplotlib**
-- **Programming & Databases**: **SQL**, **Python (Pandas, NumPy, Scikit-learn)**, **PostgreSQL**, **Snowflake**
-- **Machine Learning & AI**: **Classification**, **Regression**, **Clustering**, **Deep Learning (CNN)**, **Anomaly Detection**
+- **Programming & Databases**: **SQL**, **Python**, **PostgreSQL**, **Snowflake**
 - **Big Data & Cloud**: **Apache Spark**, **Airflow**, **Microsoft Azure**, **Google Cloud Platform**
 - **ETL & Data Pipelines**: **Data Wrangling**, **Feature Engineering**, **Web Scraping (Selenium, BeautifulSoup)**
 </details>
@@ -38,7 +37,7 @@
 |-------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
 | Auto Clean    | An intelligent, AI-powered data preprocessing tool that automates data cleaning while providing powerful visualizations for exploring variable distributions and relationships  | [View](https://github.com/phuonganh-38/AutoClean-tool) |
 | Rental Market Trend Analysis   | An end-to-end data analysis project, including rental property website scraping, data processing and a comprehensive property management system | [View](https://github.com/phuonganh-38/rental_market_trend_analysis) |
-| HR Analytics            | A comprehensive data processing and analysis project on NYC taxi trips using Databricks and Apache Spark | [View](https://github.com/phuonganh-38/nyc-taxi-data-analysis)                                                       |
+| NYC  data analysis         | A comprehensive data processing and analysis project on NYC taxi trips using Databricks and Apache Spark | [View](https://github.com/phuonganh-38/nyc-taxi-data-analysis)                                                       |
 
 </details>  
 
@@ -49,7 +48,7 @@
 |-------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
 | Global Mental Health    | Tableau  | [View](https://public.tableau.com/app/profile/phuong.anh.pham6362/viz/GlobalMentalHealthDashboard/GlobalLandscapeofMentalHealth) |
 | Australian Employment   | Tableau  | [View](https://public.tableau.com/app/profile/phuong.anh.pham6362/viz/AustralianEmploymentDashboard_17338093943480/Employmentdashboard) |
-| NYC  data analysis        | Power BI | [View](https://github.com/phuonganh-38/HR-Analytics-Dashboard)                                                       |
+|    HR Analytics     | Power BI | [View](https://github.com/phuonganh-38/HR-Analytics-Dashboard)                                                       |
 
 </details>
 
