@@ -55,7 +55,7 @@
 <details open>
     <summary><h2> LeetCode</h2></summary>
     
-- I have solved **50+ problems** on **LeetCode**, focusing on **SQL** challenges.
+- I have solved **60+ problems** on **LeetCode**, focusing on **SQL** challenges.
 - Check out my **LeetCode Profile**: [LeetCode](https://leetcode.com/u/phuonganh38/)
 </details>
 
